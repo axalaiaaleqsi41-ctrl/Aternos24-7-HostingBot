@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": eggchanhoe.aternos.me",
+    "ip": "eggchanhoe.aternos.me",
     "port": 25802,
     "version": "",
     "try-creative": false
